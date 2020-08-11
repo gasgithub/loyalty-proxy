@@ -13,3 +13,4 @@
 
 
 -Dcom.ibm.hybrid.cloud.sample.stocktrader.odm.ODMClient/mp-rest/url=http://myibmcloudcluster.us-south.containers.mybluemix.net:31016/DecisionService/rest/ICP_Trader_Dev_1/determineLoyalty
+-Dcom.ibm.mq.cfg.jmqi.useMQCSPauthentication=true
